@@ -1,7 +1,16 @@
-![Flutter](https://img.shields.io/badge/sdk-Flutter-9cf)
-![Dart](https://img.shields.io/badge/language-Dart-blue)
-![Marvel](https://img.shields.io/badge/api-Marvel-red)
-![Firebase](https://img.shields.io/badge/auth-Firebase-orange)
+# marvel_flutter
 
-# marvel-flutter
-This app is a content provider for Marvel universe (through Marvel API).
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
